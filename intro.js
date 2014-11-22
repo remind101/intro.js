@@ -1,5 +1,5 @@
 /**
- * Intro.js v0.6.1
+ * Intro.js v0.6.2
  * https://github.com/usablica/intro.js
  * MIT licensed
  *
@@ -19,7 +19,7 @@
   }
 } (this, function (exports) {
   //Default config/variables
-  var VERSION = '0.6.1';
+  var VERSION = '0.6.2';
 
   if (window.Tracking) {
     var tracker = new window.Tracking;

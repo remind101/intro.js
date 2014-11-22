@@ -313,6 +313,9 @@ Want to learn faster and easier? Here we have **Instant IntroJs**, Packt Publish
 - Provide more examples
 
 ## Release History
+ * **v0.6.2** - 2014-11-21 (Remind)
+   - Remove experiment and alternative from events.
+
  * **v0.6.1** - 2014-11-21 (Remind)
    - Add events for next, skip tour and done buttons.
 
